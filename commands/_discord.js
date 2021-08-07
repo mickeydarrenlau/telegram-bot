@@ -7,7 +7,7 @@
 
   <<ANSWER
 Discord link
-https://discord.gg/ZM4jX2khqr
+https://discord.darren.ga
   ANSWER
   keyboard: 
   aliases: 
